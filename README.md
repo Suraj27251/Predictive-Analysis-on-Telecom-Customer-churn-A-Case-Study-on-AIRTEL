@@ -1,4 +1,5 @@
 EXECUTIVE SUMMARY/ PROJECT SYNOPSIS
+
 Telecommunication companies operate in a highly competitive market, where keeping customers has become a key priority. With more service options, competitive pricing, and fast technological progress, customers can easily switch providers, which results in higher churn rates. 
 
 This project, titled “Predictive Analysis on Telecom Customer Churn: A Case Study on Airtel,” aims to use data techniques to find patterns related to customer churn and create predictive models that help telecom operators retain their customers proactively. 
