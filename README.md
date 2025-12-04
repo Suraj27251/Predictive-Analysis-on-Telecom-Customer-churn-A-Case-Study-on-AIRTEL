@@ -53,7 +53,7 @@ This topic aligns closely with the MBA in Information Technology specialization,
 •	Coverage: The study focuses on the predictive analysis of customer churn in Airtel’s telecom services, analyzing factors like behavior, demographics, billing, complaints, and network issues. 
 •	Geographical Scope: The research pertains to Airtel’s operations in India. It will use publicly available or simulated datasets that reflect the Indian telecom market. 
 •	Time Frame: Data from the last 2 year = 24 months will be analyzed to capture relevant behavioral trends. 
-•	Sample: Approximately 7000+ customer records, including both churned and active prepaid/postpaid users. 
+•	Sample: Approximately 7000+ customer records, including both churned and active prepaid/postpaid users. link - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 •	Variables Studied: Usage behavior, data consumption, call patterns, billing characteristics, tenure, demographics, complaint frequency, network experience, and churn status. 
 •	Limitations: The study may be limited by the availability and representativeness of datasets, the reliance on simulated or public data, and privacy restrictions that limit access to sensitive variables. 
 •	Importance and Need for the Study This study is crucial for enhancing Airtel’s understanding and management of customer churn. 
